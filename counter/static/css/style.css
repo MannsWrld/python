@@ -1,0 +1,28 @@
+* {
+    margin: auto;
+    padding: 0;
+}
+
+.color1 {
+    background-color: purple;
+    text-align: center;
+    padding: 15px;
+    color: white;
+    border-radius: 20px;
+}
+
+.color2 {
+    background-color: blue;
+    text-align: center;
+    padding: 15px;
+    color: white;
+    border-radius: 20px;
+}
+
+.count {
+    padding: 20px;
+    align-items: center;
+    margin: 20px;
+    display: flex;
+
+}
